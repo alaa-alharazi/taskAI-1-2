@@ -1,6 +1,5 @@
 # taskAI-1-2
-#task1
-## install ros in ubuntu
+## task1 install ros in ubuntu
 ### set locale
 ```
 1. locale
@@ -58,8 +57,7 @@ sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -o
 
 
 
-#task2
-install ROS in Jetson Nano-install ROS in Ubuntu
+##task2 install ROS in Jetson Nano
 
 ```
 1. git clone https://github.com/JetsonHacksNano/installROS.git
