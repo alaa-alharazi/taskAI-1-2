@@ -57,7 +57,7 @@ sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -o
 
 
 
-##task2 install ROS in Jetson Nano
+## task2 install ROS in Jetson Nano
 
 ```
 1. git clone https://github.com/JetsonHacksNano/installROS.git
